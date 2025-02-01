@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor](https://your-solution-url.com)
-- Live Site URL: [netlify](https://your-live-site-url.com)
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/responsive-dine-restaurant-website-F8gsK57_O_)
+- Live Site URL: [netlify](https://deft-froyo-3bfcdb.netlify.app/)
 
 ### Built with
 
