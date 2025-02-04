@@ -23,7 +23,7 @@ function Booking() {
   return (
     <>
       <div
-        className="bg-center h-[600px] flex flex-col items-center md:block md:items-start"
+        className="bg-center h-[600px] flex flex-col items-center md:block md:items-start bg-cover"
         style={{ backgroundImage: `url(${HeroBookingBg})` }}
       >
         <div className="absolute top-14 block lg:hidden px-10">
